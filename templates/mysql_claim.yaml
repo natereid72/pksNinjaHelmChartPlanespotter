@@ -4,7 +4,7 @@ metadata:
   name: mysql-claim
   namespace: planespotter
   annotations:
-    volume.beta.kubernetes.io/storage-class: thin-disk
+    volume.beta.kubernetes.io/storage-class: ps-thin-disk
 spec:
   accessModes:
     - ReadWriteOnce
