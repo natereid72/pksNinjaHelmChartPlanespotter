@@ -1,0 +1,2 @@
+Planespotter deployed.
+http://ps.ing.corp.local
